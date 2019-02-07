@@ -314,8 +314,9 @@ Table of Contents
 * [Malleable Command and Control](https://www.cobaltstrike.com/help-malleable-c2)
 
 ## [↑](#table-of-contents) PRE-ATT&CK
-
-### PRE-ATT&CK
+### Active Intelligence Gathering
+* [TEMP](TEMP)
+### Passive Intelligence Gathering
 * [TEMP](TEMP)
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
