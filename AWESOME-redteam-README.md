@@ -12,6 +12,7 @@ You can help by sending Pull Requests to add more information.
 Table of Contents
 =================
 
+ * [PRE-ATT&CK](#-PRE-ATT&CK)
  * [Initial Access](#-initial-access)
  * [Execution](#-execution)
  * [Persistence](#-persistence)
@@ -23,7 +24,6 @@ Table of Contents
  * [Collection](#-collection)
  * [Exfiltration](#-exfiltration)
  * [Command and Control](#-command-and-control)
- * [PRE-ATT&CK](#-PRE-ATT&CK)
  * [Embedded and Peripheral Devices Hacking](#-embedded-and-peripheral-devices-hacking)
  * [Misc](#-misc)
  * [RedTeam Gadgets](#-redteam-gadgets)
@@ -31,7 +31,13 @@ Table of Contents
  * [Training](#-training--free-)
  * [Certification](#-certification)
  
- 
+
+## [↑](#table-of-contents) PRE-ATT&CK
+### Active Intelligence Gathering
+* [TEMP](TEMP)
+### Passive Intelligence Gathering
+* [TEMP](TEMP)
+
 ## [↑](#table-of-contents) Initial Access
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
@@ -312,12 +318,6 @@ Table of Contents
 * [How to Make Communication Profiles for Empire](https://bluescreenofjeff.com/2017-03-01-how-to-make-communication-profiles-for-empire/)
 * [A Brave New World: Malleable C2](http://www.harmj0y.net/blog/redteaming/a-brave-new-world-malleable-c2/)
 * [Malleable Command and Control](https://www.cobaltstrike.com/help-malleable-c2)
-
-## [↑](#table-of-contents) PRE-ATT&CK
-### Active Intelligence Gathering
-* [TEMP](TEMP)
-### Passive Intelligence Gathering
-* [TEMP](TEMP)
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
