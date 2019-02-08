@@ -24,7 +24,7 @@ Table of Contents
  * [Collection](#-collection)
  * [Exfiltration](#-exfiltration)
  * [Command and Control](#-command-and-control)
- * [Living Off the Land](#-Living Off the Land)
+ * [Living Off the Land](#-Living-Off-the-Land)
  * [Embedded and Peripheral Devices Hacking](#-embedded-and-peripheral-devices-hacking)
  * [Misc](#-misc)
  * [RedTeam Gadgets](#-redteam-gadgets)
