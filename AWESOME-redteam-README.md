@@ -24,6 +24,7 @@ Table of Contents
  * [Collection](#-collection)
  * [Exfiltration](#-exfiltration)
  * [Command and Control](#-command-and-control)
+ * [Living Off the Land](#-Living Off the Land)
  * [Embedded and Peripheral Devices Hacking](#-embedded-and-peripheral-devices-hacking)
  * [Misc](#-misc)
  * [RedTeam Gadgets](#-redteam-gadgets)
@@ -350,6 +351,21 @@ Table of Contents
 * [Outsmarting smartcards](http://gerhard.dekoninggans.nl/documents/publications/dekoninggans.phd.thesis.pdf)
 * [Reverse engineering HID iClass Master keys](https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/)
 * [Android Open Pwn Project (AOPP)](https://www.pwnieexpress.com/aopp)
+
+## [↑](#table-of-contents) Living Off the Land
+* [Living Off the Land – The Reconnaissance Phase](https://www.esentire.com/blog/living-off-the-land-the-reconnaissance-phase/)
+* [Living Off the Land – The Weaponization Phase](https://www.esentire.com/blog/living-off-the-land-the-weaponization-phase/)
+* [Living Off the Land – The Delivery & Installation Phases](https://www.esentire.com/blog/living-off-the-land-the-delivery-and-installation-phases/)
+* [Living Off the Land – The Exploitation Phase](https://www.esentire.com/blog/living-off-the-land-the-exploitation-phase/)
+* [Living Off the Land – The Command and Control Phase](https://www.esentire.com/blog/living-off-the-land-the-command-and-control-phase/)
+* [Windows LOLBIN](https://lolbas-project.github.io/)
+* [UNIX LOLBIN](https://gtfobins.github.io/)
+* [Symantec Living off the land and fileless attack techniques](https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf)
+* [LOLBins: Attackers Are Abusing Trusted Binaries to Target Organizations](https://blog.barkly.com/what-are-lolbins-living-off-the-land-binaries)
+* [hexacorn living-off-the-land](http://www.hexacorn.com/blog/category/living-off-the-land/)
+* [Living Off the Land: A Minimalist’s Guide to Windows Post-Exploitation –BsidesAugusta 9/14/2013 with Matt Graeber](http://obscuresecurity.blogspot.com/p/presentation-slides.html)
+* [#Lolbins - Nothing to LOL about!](https://www.slideshare.net/OddvarHlandMoe/lolbins-nothing-to-lol-about)
+* [liberty-shell living-off-the-land](https://liberty-shell.com/sec/2018/10/20/living-off-the-land/)
 
 
 ## [↑](#table-of-contents) Misc
