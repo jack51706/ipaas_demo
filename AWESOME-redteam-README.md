@@ -102,6 +102,7 @@ Table of Contents
 
  
 ## [↑](#table-of-contents) Persistence
+* [Beyond good ol’ Run key – All parts](http://www.hexacorn.com/blog/2017/01/28/beyond-good-ol-run-key-all-parts/)
 * [A View of Persistence](https://rastamouse.me/2018/03/a-view-of-persistence/)
 * [hiding registry keys with psreflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
 * [Persistence using RunOnceEx – Hidden from Autoruns.exe](https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
