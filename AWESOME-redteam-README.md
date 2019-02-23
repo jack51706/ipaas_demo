@@ -36,6 +36,9 @@ Table of Contents
 ## [↑](#table-of-contents) PRE ATT&CK
 ### Active Intelligence Gathering
 * [EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible](https://github.com/ChrisTruncer/EyeWitness)
+'''
+
+'''
 * [AWSBucketDump is a tool to quickly enumerate AWS S3 buckets to look for loot](https://github.com/jordanpotti/AWSBucketDump)
 * [AQUATONE is a set of tools for performing reconnaissance on domain names](https://github.com/michenriksen/aquatone)
 * [spoofcheck a program that checks if a domain can be spoofed from. The program checks SPF and DMARC records for weak configurations that allow spoofing](https://github.com/BishopFox/spoofcheck)
