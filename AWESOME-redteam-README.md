@@ -115,186 +115,953 @@ Note
 
 ```
 * [SimplyEmail Email recon made fast and easy, with a framework to build on](https://github.com/killswitch-GUI/SimplyEmail)
-* [truffleHog searches through git repositories for secrets, digging deep into commit history and branches](https://github.com/dxa4481/truffleHog)
-* [Just-Metadata is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset](https://github.com/ChrisTruncer/Just-Metadata)
-* [typofinder a finder of domain typos showing country of IP address](https://github.com/nccgroup/typofinder)
-* [pwnedOrNot is a python script which checks if the email account has been compromised in a data breach, if the email account is compromised it proceeds to find passwords for the compromised account](https://github.com/thewhiteh4t/pwnedOrNot)
-* [GitHarvester This tool is used for harvesting information from GitHub like google dork](https://github.com/metac0rtex/GitHarvester)
+```
+Note
 
+
+```
+* [truffleHog searches through git repositories for secrets, digging deep into commit history and branches](https://github.com/dxa4481/truffleHog)
+```
+Note
+
+
+```
+* [Just-Metadata is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset](https://github.com/ChrisTruncer/Just-Metadata)
+```
+Note
+
+
+```
+* [typofinder a finder of domain typos showing country of IP address](https://github.com/nccgroup/typofinder)
+```
+Note
+
+
+```
+* [pwnedOrNot is a python script which checks if the email account has been compromised in a data breach, if the email account is compromised it proceeds to find passwords for the compromised account](https://github.com/thewhiteh4t/pwnedOrNot)
+```
+Note
+
+
+```
+* [GitHarvester This tool is used for harvesting information from GitHub like google dork](https://github.com/metac0rtex/GitHarvester)
+```
+Note
+
+
+```
 ## [↑](#table-of-contents) Initial Access
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
-* [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
-* [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
-* [Bash Bunny](https://hakshop.com/products/bash-bunny)
-* [OWASP Presentation of Social Engineering - OWASP](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
-* [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
-* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter - Defcon 23](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
-* [Cobalt Strike - Spear Phishing documentation](https://www.cobaltstrike.com/help-spear-phish)
-* [Cobalt Strike Blog - What's the go-to phishing technique or exploit?](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
-* [Spear phishing with Cobalt Strike - Raphael Mudge](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
-* [EMAIL RECONNAISSANCE AND PHISHING TEMPLATE GENERATION MADE SIMPLE](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
-* [Phishing for access](http://www.rvrsh3ll.net/blog/phishing/phishing-for-access/)
-* [Excel macros with PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
-* [PowerPoint and Custom Actions](https://phishme.com/powerpoint-and-custom-actions/)
-* [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
-* [Multi-Platform Macro Phishing Payloads](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
-* [Abusing Microsoft Word Features for Phishing: “subDoc”](https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
-* [Phishing Against Protected View](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
-* [POWERSHELL EMPIRE STAGERS 1: PHISHING WITH AN OFFICE MACRO AND EVADING AVS](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
-* [The PlugBot: Hardware Botnet Research Project](https://www.redteamsecure.com/the-plugbot-hardware-botnet-research-project/)
-* [Luckystrike: An Evil Office Document Generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
-* [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
-* [Macroless DOC malware that avoids detection with Yara rule](https://furoner.wordpress.com/2017/10/17/macroless-malware-that-avoids-detection-with-yara-rule/amp/)
-* [Phishing between the app whitelists](https://medium.com/@vivami/phishing-between-the-app-whitelists-1b7dcdab4279)
-* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 1 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/)
-* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 2 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/)
-* [Social Engineer Portal](https://www.social-engineer.org/)
-* [7 Best social Engineering attack](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411)
-* [Using Social Engineering Tactics For Big Data Espionage - RSA Conference Europe 2012](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf)
-* [USING THE DDE ATTACK WITH POWERSHELL EMPIRE](https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/)
-* [Phishing on Twitter - POT](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
-* [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
-* [Defense-In-Depth write-up](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
-* [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
+```
+Note
 
+
+```
+* [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
+```
+Note
+
+
+```
+* [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
+```
+Note
+
+
+```
+* [Bash Bunny](https://hakshop.com/products/bash-bunny)
+```
+Note
+
+
+```
+* [OWASP Presentation of Social Engineering - OWASP](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf)
+```
+Note
+
+
+```
+* [USB Drop Attacks: The Danger of “Lost And Found” Thumb Drives](https://www.redteamsecure.com/usb-drop-attacks-the-danger-of-lost-and-found-thumb-drives/)
+```
+Note
+
+
+```
+* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter - Defcon 23](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf)
+```
+Note
+
+
+```
+* [Cobalt Strike - Spear Phishing documentation](https://www.cobaltstrike.com/help-spear-phish)
+```
+Note
+
+
+```
+* [Cobalt Strike Blog - What's the go-to phishing technique or exploit?](https://blog.cobaltstrike.com/2014/12/17/whats-the-go-to-phishing-technique-or-exploit/)
+```
+Note
+
+
+```
+* [Spear phishing with Cobalt Strike - Raphael Mudge](https://www.youtube.com/watch?v=V7UJjVcq2Ao)
+```
+Note
+
+
+```
+* [EMAIL RECONNAISSANCE AND PHISHING TEMPLATE GENERATION MADE SIMPLE](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
+```
+Note
+
+
+```
+* [Phishing for access](http://www.rvrsh3ll.net/blog/phishing/phishing-for-access/)
+```
+Note
+
+
+```
+* [Excel macros with PowerShell](https://4sysops.com/archives/excel-macros-with-powershell/)
+```
+Note
+
+
+```
+* [PowerPoint and Custom Actions](https://phishme.com/powerpoint-and-custom-actions/)
+```
+Note
+
+
+```
+* [Macro-less Code Exec in MSWord](https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/)
+```
+Note
+
+
+```
+* [Multi-Platform Macro Phishing Payloads](https://medium.com/@malcomvetter/multi-platform-macro-phishing-payloads-3b688e8eff68)
+```
+Note
+
+
+```
+* [Abusing Microsoft Word Features for Phishing: “subDoc”](https://rhinosecuritylabs.com/research/abusing-microsoft-word-features-phishing-subdoc/)
+```
+Note
+
+
+```
+* [Phishing Against Protected View](https://enigma0x3.net/2017/07/13/phishing-against-protected-view/)
+```
+Note
+
+
+```
+* [POWERSHELL EMPIRE STAGERS 1: PHISHING WITH AN OFFICE MACRO AND EVADING AVS](https://fzuckerman.wordpress.com/2016/10/06/powershell-empire-stagers-1-phishing-with-an-office-macro-and-evading-avs/)
+```
+Note
+
+
+```
+* [The PlugBot: Hardware Botnet Research Project](https://www.redteamsecure.com/the-plugbot-hardware-botnet-research-project/)
+```
+Note
+
+
+```
+* [Luckystrike: An Evil Office Document Generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
+```
+Note
+
+
+```
+* [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
+```
+Note
+
+
+```
+* [Macroless DOC malware that avoids detection with Yara rule](https://furoner.wordpress.com/2017/10/17/macroless-malware-that-avoids-detection-with-yara-rule/amp/)
+```
+Note
+
+
+```
+* [Phishing between the app whitelists](https://medium.com/@vivami/phishing-between-the-app-whitelists-1b7dcdab4279)
+```
+Note
+
+
+```
+* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 1 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/)
+```
+Note
+
+
+```
+* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 2 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-2-of-2/)
+```
+Note
+
+
+```
+* [Social Engineer Portal](https://www.social-engineer.org/)
+```
+Note
+
+
+```
+* [7 Best social Engineering attack](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411)
+```
+Note
+
+
+```
+* [Using Social Engineering Tactics For Big Data Espionage - RSA Conference Europe 2012](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf)
+```
+Note
+
+
+```
+* [USING THE DDE ATTACK WITH POWERSHELL EMPIRE](https://1337red.wordpress.com/using-the-dde-attack-with-powershell-empire/)
+```
+Note
+
+
+```
+* [Phishing on Twitter - POT](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
+```
+Note
+
+
+```
+* [Microsoft Office – NTLM Hashes via Frameset](https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/)
+```
+Note
+
+
+```
+* [Defense-In-Depth write-up](https://oddvar.moe/2017/09/13/defense-in-depth-writeup/)
+```
+Note
+
+
+```
+* [Spear Phishing 101](https://blog.inspired-sec.com/archive/2017/05/07/Phishing.html)
+```
+Note
+
+
+```
  
 ## [↑](#table-of-contents) Execution 
 * [Research on CMSTP.exe,](https://msitpros.com/?p=3960)
-* [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
-* [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
-* [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
-* [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
+```
+Note
 
+
+```
+* [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
+```
+Note
+
+
+```
+* [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/)
+```
+Note
+
+
+```
+* [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)
+```
+Note
+
+
+```
+* [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)
+```
+Note
+
+
+```
  
 ## [↑](#table-of-contents) Persistence
 * [Beyond good ol’ Run key – All parts](http://www.hexacorn.com/blog/2017/01/28/beyond-good-ol-run-key-all-parts/)
+```
+Note
+
+
+```
 * [A View of Persistence](https://rastamouse.me/2018/03/a-view-of-persistence/)
+```
+Note
+
+
+```
 * [hiding registry keys with psreflect](https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353)
+```
+Note
+
+
+```
 * [Persistence using RunOnceEx – Hidden from Autoruns.exe](https://oddvar.moe/2018/03/21/persistence-using-runonceex-hidden-from-autoruns-exe/)
+```
+Note
+
+
+```
 * [Persistence using GlobalFlags in Image File Execution Options – Hidden from Autoruns.exe](https://oddvar.moe/2018/04/10/persistence-using-globalflags-in-image-file-execution-options-hidden-from-autoruns-exe/)
+```
+Note
+
+
+```
 * [Putting data in Alternate data streams and how to execute it – part 2](https://oddvar.moe/2018/04/11/putting-data-in-alternate-data-streams-and-how-to-execute-it-part-2/)
+```
+Note
+
+
+```
 * [WMI Persistence with Cobalt Strike](https://blog.inspired-sec.com/archive/2017/01/20/WMI-Persistence.html)
+```
+Note
+
+
+```
 * [Leveraging INF-SCT Fetch & Execute Techniques For Bypass, Evasion, & Persistence](https://bohops.com/2018/02/26/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence/)
+```
+Note
+
+
+```
 * [Leveraging INF-SCT Fetch & Execute Techniques For Bypass, Evasion, & Persistence (Part 2)](https://bohops.com/2018/03/10/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence-part-2/)
+```
+Note
+
+
+```
 * [Vshadow: Abusing the Volume Shadow Service for Evasion, Persistence, and Active Directory Database Extraction](https://bohops.com/2018/02/10/vshadow-abusing-the-volume-shadow-service-for-evasion-persistence-and-active-directory-database-extraction/)
+```
+Note
+
+
+```
  
 ## [↑](#table-of-contents) Privilege Escalation
 
 ### User Account Control Bypass
 * [First entry: Welcome and fileless UAC bypass,](https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/)
+```
+Note
+
+
+```
 * [Exploiting Environment Variables in Scheduled Tasks for UAC Bypass,](https://tyranidslair.blogspot.ru/2017/05/exploiting-environment-variables-in.html)
+```
+Note
+
+
+```
 * Reading Your Way Around UAC in 3 parts:
    [Part 1.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-1.html)
    [Part 2.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-2.html)
    [Part 3.](https://tyranidslair.blogspot.ru/2017/05/reading-your-way-around-uac-part-3.html)
+```
+Note
+
+
+``` 
 * [Bypassing UAC using App Paths,](https://enigma0x3.net/2017/03/14/bypassing-uac-using-app-paths/)
+```
+Note
+
+
+```
 * ["Fileless" UAC Bypass using sdclt.exe,](https://enigma0x3.net/2017/03/17/fileless-uac-bypass-using-sdclt-exe/)
+```
+Note
+
+
+```
 * [UAC Bypass or story about three escalations,](https://habrahabr.ru/company/pm/blog/328008/)
+```
+Note
+
+
+```
 * ["Fileless" UAC Bypass Using eventvwr.exe and Registry Hijacking,](https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/)
+```
+Note
+
+
+```
 * [Bypassing UAC on Windows 10 using Disk Cleanup,](https://enigma0x3.net/2016/07/22/bypassing-uac-on-windows-10-using-disk-cleanup/)
+```
+Note
+
+
+```
 * [Using IARPUninstallStringLauncher COM interface to bypass UAC,](http://www.freebuf.com/articles/system/116611.html)
+```
+Note
+
+
+```
 * [Fileless UAC Bypass using sdclt](https://posts.specterops.io/fileless-uac-bypass-using-sdclt-exe-3e9f9ad4e2b3)
+```
+Note
+
+
+```
 * [Eventvwr File-less UAC Bypass CNA](https://www.mdsec.co.uk/2016/12/cna-eventvwr-uac-bypass/)
+```
+Note
+
+
+```
 * [Windows 7 UAC whitelist](http://www.pretentiousname.com/misc/win7_uac_whitelist2.html)
+```
+Note
+
+
+```
 
 ### Escalation
 * [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md)
+```
+Note
+
+
+```
 * [From Patch Tuesday to DA](https://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html)
+```
+Note
+
+
+```
 * [A Path for Privilege Escalation](https://blog.cobaltstrike.com/2016/12/08/cobalt-strike-3-6-a-path-for-privilege-escalation/)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Defense Evasion
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses)
+```
+Note
+
+
+```
 * [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
+```
+Note
+
+
+```
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary)
+```
+Note
+
+
+```
 * [Bypass Application Whitelisting Script Protections - Regsvr32.exe & COM Scriptlets (.sct files)](http://subt0x10.blogspot.sg/2017/04/bypass-application-whitelisting-script.html)
+```
+Note
+
+
+```
 * [Bypassing Application Whitelisting using MSBuild.exe - Device Guard Example and Mitigations](http://subt0x10.blogspot.sg/2017/04/bypassing-application-whitelisting.html)
+```
+Note
+
+
+```
 * [Empire without powershell](https://bneg.io/2017/07/26/empire-without-powershell-exe/)
+```
+Note
+
+
+```
 * [Powershell without Powershell to bypass app whitelist](https://www.blackhillsinfosec.com/powershell-without-powershell-how-to-bypass-application-whitelisting-environment-restrictions-av/)
+```
+Note
+
+
+```
 * [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief)
+```
+Note
+
+
+```
 * [Hiding your process from sysinternals](https://riscybusiness.wordpress.com/2017/10/07/hiding-your-process-from-sysinternals/)
+```
+Note
+
+
+```
 * [code signing certificate cloning attacks and defenses](https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec)
+```
+Note
+
+
+```
 * [userland api monitoring and code injection detection](https://0x00sec.org/t/userland-api-monitoring-and-code-injection-detection/5565)
+```
+Note
+
+
+```
 * [In memory evasion](https://blog.cobaltstrike.com/2018/02/08/in-memory-evasion/)
+```
+Note
+
+
+```
 * [Bypassing AMSI via COM Server Hijacking](https://posts.specterops.io/bypassing-amsi-via-com-server-hijacking-b8a3354d1aff)
+```
+Note
+
+
+```
 * [process doppelganging](https://hshrzd.wordpress.com/2017/12/18/process-doppelganging-a-new-way-to-impersonate-a-process/)
+```
+Note
+
+
+```
 * [Week of Evading Microsoft ATA - Announcement and Day 1 to Day 5](http://www.labofapenetrationtester.com/2017/08/week-of-evading-microsoft-ata-day1.html)
+```
+Note
+
+
+```
 * [VEIL-EVASION AES ENCRYPTED HTTPKEY REQUEST: SAND-BOX EVASION](https://cybersyndicates.com/2015/06/veil-evasion-aes-encrypted-httpkey-request-module/)
+```
+Note
+
+
+```
 * [Putting data in Alternate data streams and how to execute it](https://oddvar.moe/2018/01/14/putting-data-in-alternate-data-streams-and-how-to-execute-it/)
+```
+Note
+
+
+```
 * [AppLocker – Case study – How insecure is it really? – Part 1](https://oddvar.moe/2017/12/13/applocker-case-study-how-insecure-is-it-really-part-1/)
+```
+Note
+
+
+```
 * [AppLocker – Case study – How insecure is it really? – Part 2](https://oddvar.moe/2017/12/21/applocker-case-study-how-insecure-is-it-really-part-2/)
+```
+Note
+
+
+```
 * [Harden Windows with AppLocker – based on Case study part 2](https://oddvar.moe/2017/12/13/harden-windows-with-applocker-based-on-case-study-part-1/)
+```
+Note
+
+
+```
 * [Harden Windows with AppLocker – based on Case study part 2](https://oddvar.moe/2017/12/21/harden-windows-with-applocker-based-on-case-study-part-2/)
+```
+Note
+
+
+```
 * [Office 365 Safe links bypass](https://oddvar.moe/2018/01/03/office-365-safe-links-bypass/)
+```
+Note
+
+
+```
 * [Windows Defender Attack Surface Reduction Rules bypass](https://oddvar.moe/2018/03/15/windows-defender-attack-surface-reduction-rules-bypass/)
+```
+Note
+
+
+```
 * [Bypassing Device guard UMCI using CHM – CVE-2017-8625](https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/)
+```
+Note
+
+
+```
 * [Bypassing Application Whitelisting with BGInfo](https://oddvar.moe/2017/05/18/bypassing-application-whitelisting-with-bginfo/)
+```
+Note
+
+
+```
 * [Cloning and Hosting Evil Captive Portals using a Wifi PineApple](https://blog.inspired-sec.com/archive/2017/01/10/cloning-captive-portals.html)
+```
+Note
+
+
+```
 * [https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/](https://bohops.com/2018/01/23/loading-alternate-data-stream-ads-dll-cpl-binaries-to-bypass-applocker/)
+```
+Note
+
+
+```
 * [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/)
+```
+Note
+
+
+```
 * [mavinject.exe Functionality Deconstructed](https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c0e)
+```
+Note
+
+
+```
   
 ## [↑](#table-of-contents) Credential Access
 * [Windows Access Tokens and Alternate credentials](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
+```
+Note
+
+
+```
 * [Bringing the hashes home with reGeorg & Empire](https://sensepost.com/blog/2016/bringing-the-hashes-home-with-regeorg-empire/)
+```
+Note
+
+
+```
 * [Intercepting passwords with Empire and winning](https://sensepost.com/blog/2016/intercepting-passwords-with-empire-and-winning/)
+```
+Note
+
+
+```
 * [Local Administrator Password Solution (LAPS) Part 1](https://rastamouse.me/2018/03/laps---part-1/)
 * [Local Administrator Password Solution (LAPS) Part 2](https://rastamouse.me/2018/03/laps---part-2/)
+```
+Note
+
+
+```
 * [USING A SCF FILE TO GATHER HASHES](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/)
+```
+Note
+
+
+```
 * [Remote Hash Extraction On Demand Via Host Security Descriptor Modification](https://www.harmj0y.net/blog/)
+```
+Note
+
+
+```
 * [Offensive Encrypted Data Storage](https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage/)
+```
+Note
+
+
+```
 * [Practical guide to NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
+```
+Note
+
+
+```
 * [Dump Clear-Text Passwords for All Admins in the Domain Using Mimikatz DCSync](https://adsecurity.org/?p=2053)
+```
+Note
+
+
+```
 * [Dumping Domain Password Hashes](https://pentestlab.blog/2018/07/04/dumping-domain-password-hashes/)
+```
+Note
+
+
+```
   
 ## [↑](#table-of-contents) Discovery
 * [Red Team Operating in a Modern Environment](https://www.owasp.org/images/4/4b/Red_Team_Operating_in_a_Modern_Environment.pdf)
+```
+Note
+
+
+```
 * [My First Go with BloodHound](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
+```
+Note
+
+
+```
 * [Introducing BloodHound](https://wald0.com/?p=68)
+```
+Note
+
+
+```
 * [A Red Teamer’s Guide to GPOs and OUs](https://wald0.com/?p=179)
+```
+Note
+
+
+```
 * [Automated Derivative Administrator Search](https://wald0.com/?p=14)
+```
+Note
+
+
+```
 * [A Pentester’s Guide to Group Scoping](https://www.harmj0y.net/blog/activedirectory/a-pentesters-guide-to-group-scoping/)
+```
+Note
+
+
+```
 * [Local Group Enumeration](https://www.harmj0y.net/blog/redteaming/local-group-enumeration/)
+```
+Note
+
+
+```
 * [The PowerView PowerUsage Series #1 - Mass User Profile Enumeration](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-1/)
+```
+Note
+
+
+```
 * [The PowerView PowerUsage Series #2 – Mapping Computer Shortnames With the Global Catalog](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-2/)
+```
+Note
+
+
+```
 * [The PowerView PowerUsage Series #3 – Enumerating GPO edit rights in a foreign domain](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-3/)
+```
+Note
+
+
+```
 * [The PowerView PowerUsage Series #4 – Finding cross-trust ACEs](http://www.harmj0y.net/blog/powershell/the-powerview-powerusage-series-3/)
+```
+Note
+
+
+```
 * [Aggressor PowerView](http://threat.tevora.com/aggressor-powerview/)
+```
+Note
+
+
+```
 * [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
+```
+Note
+
+
+```
 * [Scanning for Active Directory Privileges & Privileged Accounts](https://adsecurity.org/?p=3658)
+```
+Note
+
+
+```
 * [Microsoft LAPS Security & Active Directory LAPS Configuration Recon](https://adsecurity.org/?p=3164)
+```
+Note
+
+
+```
 * [Trust Direction: An Enabler for Active Directory Enumeration and Trust Exploitation](https://bohops.com/2017/12/02/trust-direction-an-enabler-for-active-directory-enumeration-and-trust-exploitation/)
+```
+Note
+
+
+```
 * [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/)
+```
+Note
+
+
+```
    
 ## [↑](#table-of-contents) Lateral Movement 
 
 * [A Citrix Story](https://rastamouse.me/2017/05/a-citrix-story/)
+```
+Note
+
+
+```
 * [Jumping Network Segregation with RDP](https://rastamouse.me/2017/08/jumping-network-segregation-with-rdp/)
+```
+Note
+
+
+```
 * [Pass hash pass ticket no pain](http://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/)
+```
+Note
+
+
+```
 * [Abusing DNSAdmins privilege for escalation in Active Directory](http://www.labofapenetrationtester.com/2017/05/abusing-dnsadmins-privilege-for-escalation-in-active-directory.html)
+```
+Note
+
+
+```
 * [Using SQL Server for attacking a Forest Trust](http://www.labofapenetrationtester.com/2017/03/using-sql-server-for-attacking-forest-trust.html)
+```
+Note
+
+
+```
 * [Extending BloodHound for Red Teamers](https://www.youtube.com/watch?v=Pn7GWRXfgeI)
+```
+Note
+
+
+```
 * [OPSEC Considerations for beacon commands](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
+```
+Note
+
+
+```
 * [My First Go with BloodHound](https://blog.cobaltstrike.com/2016/12/14/my-first-go-with-bloodhound/)
+```
+Note
+
+
+```
 * [Kerberos Party Tricks: Weaponizing Kerberos Protocol Flaws](http://www.exumbraops.com/blog/2016/6/1/kerberos-party-tricks-weaponizing-kerberos-protocol-flaws)
+```
+Note
+
+
+```
 * [Lateral movement using excel application and dcom](https://enigma0x3.net/2017/09/11/lateral-movement-using-excel-application-and-dcom/)
+```
+Note
+
+
+```
 * [Lay of the Land with BloodHound](http://threat.tevora.com/lay-of-the-land-with-bloodhound/)
+```
+Note
+
+
+```
 * [The Most Dangerous User Right You (Probably) Have Never Heard Of](https://www.harmj0y.net/blog/activedirectory/the-most-dangerous-user-right-you-probably-have-never-heard-of/)
+```
+Note
+
+
+```
 * [Agentless Post Exploitation](https://blog.cobaltstrike.com/2016/11/03/agentless-post-exploitation/)
+```
+Note
+
+
+```
 * [A Guide to Attacking Domain Trusts](https://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)   
+```
+Note
+
+
+```
 * [Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy](https://www.harmj0y.net/blog/redteaming/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy/)
+```
+Note
+
+
+```
 * [Targeted Kerberoasting](https://www.harmj0y.net/blog/activedirectory/targeted-kerberoasting/)
+```
+Note
+
+
+```
 * [Kerberoasting Without Mimikatz](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
+```
+Note
+
+
+```
 * [Abusing GPO Permissions](https://www.harmj0y.net/blog/redteaming/abusing-gpo-permissions/)
+```
+Note
+
+
+```
 * [Abusing Active Directory Permissions with PowerView](https://www.harmj0y.net/blog/redteaming/abusing-active-directory-permissions-with-powerview/)
+```
+Note
+
+
+```
 * [Roasting AS-REPs](https://www.harmj0y.net/blog/activedirectory/roasting-as-reps/)
+```
+Note
+
+
+```
 * [Getting the goods with CrackMapExec: Part 1](https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-1.html)
+```
+Note
+
+
+```
 * [Getting the goods with CrackMapExec: Part 2](https://byt3bl33d3r.github.io/getting-the-goods-with-crackmapexec-part-2.html)
+```
+Note
+
+
+```
 * [DiskShadow: The Return of VSS Evasion, Persistence, and Active Directory Database Extraction](https://bohops.com/2018/03/26/diskshadow-the-return-of-vss-evasion-persistence-and-active-directory-database-extraction/)
+```
+Note
+
+
+```
 * [Abusing Exported Functions and Exposed DCOM Interfaces for Pass-Thru Command Execution and Lateral Movement](https://bohops.com/2018/03/17/abusing-exported-functions-and-exposed-dcom-interfaces-for-pass-thru-command-execution-and-lateral-movement/)
+```
+Note
+
+
+```
 * [a guide to attacking domain trusts](https://posts.specterops.io/a-guide-to-attacking-domain-trusts-971e52cb2944)
+```
+Note
+
+
+```
 * [Outlook Home Page – Another Ruler Vector](https://sensepost.com/blog/2017/outlook-home-page-another-ruler-vector/)
+```
+Note
+
+
+```
 * [Outlook Forms and Shells](https://sensepost.com/blog/2017/outlook-forms-and-shells/)
+```
+Note
+
+
+```
 * [Abusing the COM Registry Structure: CLSID, LocalServer32, & InprocServer32](https://bohops.com/2018/06/28/abusing-com-registry-structure-clsid-localserver32-inprocserver32/)
+```
+Note
+
+
+```
 * [LethalHTA - A new lateral movement technique using DCOM and HTA](https://codewhitesec.blogspot.com/2018/07/lethalhta.html)
 * [Abusing DCOM For Yet Another Lateral Movement Technique](https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement-technique/)
    
