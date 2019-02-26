@@ -1063,194 +1063,954 @@ Note
 
 ```
 * [LethalHTA - A new lateral movement technique using DCOM and HTA](https://codewhitesec.blogspot.com/2018/07/lethalhta.html)
+```
+Note
+
+
+```
 * [Abusing DCOM For Yet Another Lateral Movement Technique](https://bohops.com/2018/04/28/abusing-dcom-for-yet-another-lateral-movement-technique/)
+```
+Note
+
+
+```
    
 ## [↑](#table-of-contents) Collection  
 * [Accessing clipboard from the lock screen in Windows 10 Part 1](https://oddvar.moe/2017/01/24/accessing-clipboard-from-the-lock-screen-in-windows-10/)
+```
+Note
+
+
+```
 * [Accessing clipboard from the lock screen in Windows 10 Part 2](https://oddvar.moe/2017/01/27/access-clipboard-from-lock-screen-in-windows-10-2/)
+```
+Note
+
+
+```
 
   
    
 ## [↑](#table-of-contents) Exfiltration
 * [DNS Data exfiltration — What is this and How to use?](https://blog.fosec.vn/dns-data-exfiltration-what-is-this-and-how-to-use-2f6c69998822)
+```
+Note
+
+
+```
 * [DNS Tunnelling](http://resources.infosecinstitute.com/dns-tunnelling/)
+```
+Note
+
+
+```
 * [sg1: swiss army knife for data encryption, exfiltration & covert communication](https://securityonline.info/sg1-swiss-army-knife-for-data-encryption-exfiltration-covert-communication/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+```
+Note
+
+
+```
 * [Data Exfiltration over DNS Request Covert Channel: DNSExfiltrator](https://n0where.net/data-exfiltration-over-dns-request-covert-channel-dnsexfiltrator)
+```
+Note
+
+
+```
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/PaulSec/DET)
+```
+Note
+
+
+```
 * [Data Exfiltration via Formula Injection Part1](https://www.notsosecure.com/data-exfiltration-formula-injection/)
+```
+Note
+
+
+```
 
 
 ## [↑](#table-of-contents) Command and Control
 
 ### Domain Fronting
 * [Empre Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
+```
+Note
+
+
+```
 * [Escape and Evasion Egressing Restricted Networks - Tom Steele and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
+```
+Note
+
+
+```
 * [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains)
+```
+Note
+
+
+```
 * [TOR Fronting – Utilising Hidden Services for Privacy](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+```
+Note
+
+
+```
 * [Simple domain fronting PoC with GAE C2 server](https://www.securityartwork.es/2017/01/31/simple-domain-fronting-poc-with-gae-c2-server/)
+```
+Note
+
+
+```
 * [Domain Fronting Via Cloudfront Alternate Domains](https://www.mdsec.co.uk/2017/02/domain-fronting-via-cloudfront-alternate-domains/)
+```
+Note
+
+
+```
 * [Finding Domain frontable Azure domains - thoth / Fionnbharr (@a_profligate)](https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html)
+```
+Note
+
+
+```
 * [Google Groups: Blog post on finding 2000+ Azure domains using Censys](https://groups.google.com/forum/#!topic/traffic-obf/7ygIXCPebwQ)
+```
+Note
+
+
+```
 * [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
+```
+Note
+
+
+```
 * [SSL Domain Fronting 101](http://www.rvrsh3ll.net/blog/offensive/ssl-domain-fronting-101/)
+```
+Note
+
+
+```
 * [How I Identified 93k Domain-Frontable CloudFront Domains](https://www.peew.pw/blog/2018/2/22/how-i-identified-93k-domain-frontable-cloudfront-domains)
+```
+Note
+
+
+```
 * [Validated CloudFront SSL Domains](https://medium.com/@vysec.private/validated-cloudfront-ssl-domains-27895822cea3)
+```
+Note
+
+
+```
 * [CloudFront Hijacking](https://www.mindpointgroup.com/blog/pen-test/cloudfront-hijacking/)
+```
+Note
+
+
+```
 * [CloudFrunt GitHub Repo](https://github.com/MindPointGroup/cloudfrunt)
+```
+Note
+
+
+```
 
 ### Connection Proxy
 * [Redirecting Cobalt Strike DNS Beacons](http://www.rvrsh3ll.net/blog/offensive/redirecting-cobalt-strike-dns-beacons/)
+```
+Note
+
+
+```
 * [Apache2Mod Rewrite Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup)
+```
+Note
+
+
+```
 * [Cobalt Strike HTTP C2 Redirectors with Apache mod_rewrite](https://bluescreenofjeff.com/2016-06-28-cobalt-strike-http-c2-redirectors-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
+```
+Note
+
+
+```
 * [Cloud-based Redirectors for Distributed Hacking](https://blog.cobaltstrike.com/2014/01/14/cloud-based-redirectors-for-distributed-hacking/)
+```
+Note
+
+
+```
 * [Combatting Incident Responders with Apache mod_rewrite](https://bluescreenofjeff.com/2016-04-12-combatting-incident-responders-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [Operating System Based Redirection with Apache mod_rewrite](https://bluescreenofjeff.com/2016-04-05-operating-system-based-redirection-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [Invalid URI Redirection with Apache mod_rewrite](https://bluescreenofjeff.com/2016-03-29-invalid-uri-redirection-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [Strengthen Your Phishing with Apache mod_rewrite and Mobile User Redirection](https://bluescreenofjeff.com/2016-03-22-strengthen-your-phishing-with-apache-mod_rewrite-and-mobile-user-redirection/)
+```
+Note
+
+
+```
 * [mod_rewrite rule to evade vendor sandboxes](https://gist.github.com/curi0usJack/971385e8334e189d93a6cb4671238b10)
+```
+Note
+
+
+```
 * [Expire Phishing Links with Apache RewriteMap](https://bluescreenofjeff.com/2016-04-19-expire-phishing-links-with-apache-rewritemap/)
+```
+Note
+
+
+```
 * [Serving random payloads with NGINX](https://gist.github.com/jivoi/a33ace2e25515a31aa2ffbae246d98c9)
+```
+Note
+
+
+```
 * [Mod_Rewrite Automatic Setup](https://blog.inspired-sec.com/archive/2017/04/17/Mod-Rewrite-Automatic-Setup.html)
+```
+Note
+
+
+```
 * [Hybrid Cobalt Strike Redirectors](https://zachgrace.com/2018/02/20/cobalt_strike_redirectors.html)
+```
+Note
+
+
+```
 * [Expand Your Horizon Red Team – Modern SAAS C2](https://cybersyndicates.com/2017/04/expand-your-horizon-red-team/)
+```
+Note
+
+
+```
 * [RTOps: Automating Redirector Deployment With Ansible](http://threat.tevora.com/automating-redirector-deployment-with-ansible/)
+```
+Note
+
+
+```
 
 ### Web Services
 * [C2 with Dropbox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
+```
+Note
+
+
+```
 * [C2 with gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
+```
+Note
+
+
+```
 * [C2 with twitter](https://pentestlab.blog/2017/09/26/command-and-control-twitter/)
+```
+Note
+
+
+```
 * [Office 365 for Cobalt Strike C2](https://labs.mwrinfosecurity.com/blog/tasking-office-365-for-cobalt-strike-c2/)
+```
+Note
+
+
+```
 * [Red Team Insights on HTTPS Domain Fronting Google Hosts Using Cobalt Strike](https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/)
+```
+Note
+
+
+```
 * [A stealthy Python based Windows backdoor that uses Github as a C&C server](http://securityblog.gr/4434/a-stealthy-python-based-windows-backdoor-that-uses-github-as-a-cc-server/)
+```
+Note
+
+
+```
 * [External C2 (Third-Party Command and Control)](https://www.cobaltstrike.com/help-externalc2)
+```
+Note
+
+
+```
 * [Cobalt Strike over external C2 – beacon home in the most obscure ways](https://outflank.nl/blog/2017/09/17/blogpost-cobalt-strike-over-external-c2-beacon-home-in-the-most-obscure-ways/)
+```
+Note
+
+
+```
 * [External C2 for Cobalt Strike](https://github.com/ryhanson/ExternalC2/)
+```
+Note
+
+
+```
 * [External C2 framework for Cobalt Strike](http://www.insomniacsecurity.com/2018/01/11/externalc2.html)
+```
+Note
+
+
+```
 * [External C2 framework - GitHub Repo](https://github.com/Und3rf10w/external_c2_framework)
+```
+Note
+
+
+```
 * [Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs](https://github.com/Und3rf10w/external_c2_framework)
+```
+Note
+
+
+```
 * [Exploring Cobalt Strike's ExternalC2 framework](https://blog.xpnsec.com/exploring-cobalt-strikes-externalc2-framework/)
+```
+Note
+
+
+```
 
 ### Application Layer Protocol
 * [C2 WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
+```
+Note
+
+
+```
 * [C2 WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
+```
+Note
+
+
+```
 * [C2 Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
+```
+Note
+
+
+```
 * [C2 Image](https://pentestlab.blog/2018/01/02/command-and-control-images/)
+```
+Note
+
+
+```
 * [C2 Javascript](https://pentestlab.blog/2018/01/08/command-and-control-javascript/)
+```
+Note
+
+
+```
 * [C2 WebInterface](https://pentestlab.blog/2018/01/03/command-and-control-web-interface/)
+```
+Note
+
+
+```
 * [C2 with DNS](https://pentestlab.blog/2017/09/06/command-and-control-dns/)
+```
+Note
+
+
+```
 * [C2 with https](https://pentestlab.blog/2017/10/04/command-and-control-https/)
+```
+Note
+
+
+```
 * [C2 with webdav](https://pentestlab.blog/2017/09/12/command-and-control-webdav/)
+```
+Note
+
+
+```
 * [Introducing Merlin — A cross-platform post-exploitation HTTP/2 Command & Control Tool](https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a)
+```
+Note
+
+
+```
 * [InternetExplorer.Application for C2](https://adapt-and-attack.com/2017/12/19/internetexplorer-application-for-c2/)
+```
+Note
+
+
+```
 
 ### Infrastructure
 * [Automated Red Team Infrastructure Deployment with Terraform - Part 1](https://rastamouse.me/2017/08/automated-red-team-infrastructure-deployment-with-terraform---part-1/)
+```
+Note
+
+
+```
 * [Automated Red Team Infrastructure Deployment with Terraform - Part 2](https://rastamouse.me/2017/09/automated-red-team-infrastructure-deployment-with-terraform---part-2/)
+```
+Note
+
+
+```
 * [Red Team Infrastructure - AWS Encrypted EBS](https://rastamouse.me/2018/02/red-team-infrastructure---aws-encrypted-ebs/)
+```
+Note
+
+
+```
 * [6 RED TEAM INFRASTRUCTURE TIPS](https://cybersyndicates.com/2016/11/top-red-team-tips/)
+```
+Note
+
+
+```
 * [How to Build a C2 Infrastructure with Digital Ocean – Part 1](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
+```
+Note
+
+
+```
 * [Infrastructure for Ongoing Red Team Operations](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+```
+Note
+
+
+```
 * [Attack Infrastructure Log Aggregation and Monitoring](https://posts.specterops.io/attack-infrastructure-log-aggregation-and-monitoring-345e4173044e)
+```
+Note
+
+
+```
 * [Randomized Malleable C2 Profiles Made Easy](https://bluescreenofjeff.com/2017-08-30-randomized-malleable-c2-profiles-made-easy/)
+```
+Note
+
+
+```
 * [Migrating Your infrastructure](https://blog.cobaltstrike.com/2015/10/21/migrating-your-infrastructure/)
+```
+Note
+
+
+```
 * [ICMP C2](https://pentestlab.blog/2017/07/28/command-and-control-icmp/)
+```
+Note
+
+
+```
 * [Using WebDAV features as a covert channel](https://arno0x0x.wordpress.com/2017/09/07/using-webdav-features-as-a-covert-channel/)
+```
+Note
+
+
+```
 * [Safe Red Team Infrastructure](https://medium.com/@malcomvetter/safe-red-team-infrastructure-c5d6a0f13fac)
+```
+Note
+
+
+```
 * [EGRESSING BLUECOAT WITH COBALTSTIKE & LET'S ENCRYPT](https://cybersyndicates.com/2016/12/egressing-bluecoat-with-cobaltstike-letsencrypt/)
+```
+Note
+
+
+```
 * [Command and Control Using Active Directory](http://www.harmj0y.net/blog/powershell/command-and-control-using-active-directory/)
+```
+Note
+
+
+```
 * [A Vision for Distributed Red Team Operations](https://blog.cobaltstrike.com/2013/02/12/a-vision-for-distributed-red-team-operations/)
+```
+Note
+
+
+```
 * [Designing Effective Covert Red Team Attack Infrastructure](https://bluescreenofjeff.com/2017-12-05-designing-effective-covert-red-team-attack-infrastructure/)
+```
+Note
+
+
+```
 * [Serving Random Payloads with Apache mod_rewrite](https://bluescreenofjeff.com/2017-06-13-serving-random-payloads-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [Mail Servers Made Easy](https://blog.inspired-sec.com/archive/2017/02/14/Mail-Server-Setup.html)
+```
+Note
+
+
+```
 * [Securing your Empire C2 with Apache mod_rewrite](https://thevivi.net/2017/11/03/securing-your-empire-c2-with-apache-mod_rewrite/)
+```
+Note
+
+
+```
 * [Automating Gophish Releases With Ansible and Docker](https://jordan-wright.com/blog/post/2018-02-04-automating-gophish-releases/)
+```
+Note
+
+
+```
 * [How to Write Malleable C2 Profiles for Cobalt Strike](https://bluescreenofjeff.com/2017-01-24-how-to-write-malleable-c2-profiles-for-cobalt-strike/)
+```
+Note
+
+
+```
 * [How to Make Communication Profiles for Empire](https://bluescreenofjeff.com/2017-03-01-how-to-make-communication-profiles-for-empire/)
+```
+Note
+
+
+```
 * [A Brave New World: Malleable C2](http://www.harmj0y.net/blog/redteaming/a-brave-new-world-malleable-c2/)
+```
+Note
+
+
+```
 * [Malleable Command and Control](https://www.cobaltstrike.com/help-malleable-c2)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Embedded and Peripheral Devices Hacking
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
+```
+Note
+
+
+```
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
+```
+Note
+
+
+```
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
+```
+Note
+
+
+```
 * [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof)
+```
+Note
+
+
+```
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
+```
+Note
+
+
+```
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
+```
+Note
+
+
+```
 * [Swiss Army Knife for RFID](https://www.cs.bham.ac.uk/~garciaf/publications/Tutorial_Proxmark_the_Swiss_Army_Knife_for_RFID_Security_Research-RFIDSec12.pdf)
+```
+Note
+
+
+```
 * [Exploring NFC Attack Surface](https://media.blackhat.com/bh-us-12/Briefings/C_Miller/BH_US_12_Miller_NFC_attack_surface_WP.pdf)
+```
+Note
+
+
+```
 * [Outsmarting smartcards](http://gerhard.dekoninggans.nl/documents/publications/dekoninggans.phd.thesis.pdf)
+```
+Note
+
+
+```
 * [Reverse engineering HID iClass Master keys](https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/)
+```
+Note
+
+
+```
 * [Android Open Pwn Project (AOPP)](https://www.pwnieexpress.com/aopp)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Living Off the Land
 * [Living Off the Land – The Reconnaissance Phase](https://www.esentire.com/blog/living-off-the-land-the-reconnaissance-phase/)
+```
+Note
+
+
+```
 * [Living Off the Land – The Weaponization Phase](https://www.esentire.com/blog/living-off-the-land-the-weaponization-phase/)
+```
+Note
+
+
+```
 * [Living Off the Land – The Delivery & Installation Phases](https://www.esentire.com/blog/living-off-the-land-the-delivery-and-installation-phases/)
+```
+Note
+
+
+```
 * [Living Off the Land – The Exploitation Phase](https://www.esentire.com/blog/living-off-the-land-the-exploitation-phase/)
+```
+Note
+
+
+```
 * [Living Off the Land – The Command and Control Phase](https://www.esentire.com/blog/living-off-the-land-the-command-and-control-phase/)
+```
+Note
+
+
+```
 * [Windows LOLBIN](https://lolbas-project.github.io/)
+```
+Note
+
+
+```
 * [UNIX LOLBIN](https://gtfobins.github.io/)
+```
+Note
+
+
+```
 * [Symantec Living off the land and fileless attack techniques](https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf)
+```
+Note
+
+
+```
 * [LOLBins: Attackers Are Abusing Trusted Binaries to Target Organizations](https://blog.barkly.com/what-are-lolbins-living-off-the-land-binaries)
+```
+Note
+
+
+```
 * [hexacorn living-off-the-land](http://www.hexacorn.com/blog/category/living-off-the-land/)
+```
+Note
+
+
+```
 * [Living Off the Land: A Minimalist’s Guide to Windows Post-Exploitation –BsidesAugusta 9/14/2013 with Matt Graeber](http://obscuresecurity.blogspot.com/p/presentation-slides.html)
+```
+Note
+
+
+```
 * [#Lolbins - Nothing to LOL about!](https://www.slideshare.net/OddvarHlandMoe/lolbins-nothing-to-lol-about)
+```
+Note
+
+
+```
 * [liberty-shell living-off-the-land](https://liberty-shell.com/sec/2018/10/20/living-off-the-land/)
+```
+Note
+
+
+```
 
 
 ## [↑](#table-of-contents) Misc
 * [Red Tips of Vysec](https://github.com/vysec/RedTips)
+```
+Note
+
+
+```
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
+```
+Note
+
+
+```
 * [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
+```
+Note
+
+
+```
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan)
+```
+Note
+
+
+```
 * [Raphael Mudge - Dirty Red Team tricks](https://www.youtube.com/watch?v=oclbbqvawQg)
+```
+Note
+
+
+```
 * [introducing the adversary resilience methodology part 1](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604)
+```
+Note
+
+
+```
 * [introducing the adversary resilience methodology part 2](https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d)
+```
+Note
+
+
+```
 * [Responsible red team](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
+```
+Note
+
+
+```
 * [Red Teaming for Pacific Rim CCDC 2017](https://bluescreenofjeff.com/2017-05-02-red-teaming-for-pacific-rim-ccdc-2017/)
+```
+Note
+
+
+```
 * [How I Prepared to Red Team at PRCCDC 2015](https://bluescreenofjeff.com/2015-04-15-how-i-prepared-to-red-team-at-prccdc-2015/)
+```
+Note
+
+
+```
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
+```
+Note
+
+
+```
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
 * [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
+```
+Note
+
+
+```
 * [LAN Turtle](https://hakshop.com/collections/network-implants/products/lan-turtle)
+```
+Note
+
+
+```
 * [Bash Bunny](https://hakshop.com/collections/physical-access/products/bash-bunny)
+```
+Note
+
+
+```
 * [Packet Squirrel](https://hakshop.com/products/packet-squirrel)
+```
+Note
+
+
+```
 #### Wifi Auditing
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
+```
+Note
+
+
+```
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
+```
+Note
+
+
+```
 * [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
+```
+Note
+
+
+```
 * [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl)
+```
+Note
+
+
+```
 #### IoT
 * [BLE Key](https://hackerwarehouse.com/product/blekey/)
+```
+Note
+
+
+```
 * [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
+```
+Note
+
+
+```
 * [Zigbee Sniffer](https://www.attify-store.com/products/zigbee-sniffing-tool-atmel-rzraven)
+```
+Note
+
+
+```
 * [Attify IoT Exploit kit](https://www.attify-store.com/collections/frontpage/products/jtag-exploitation-kit-with-lab-manual)
+```
+Note
+
+
+```
 #### Software Defined Radio - SDR
 * [HackRF One Bundle](https://hackerwarehouse.com/product/hackrf-one-kit/)
+```
+Note
+
+
+```
 * [RTL-SDR](https://hackerwarehouse.com/product/rtlsdr/)
+```
+Note
+
+
+```
 * [YARD stick one Bundle](https://hackerwarehouse.com/product/yard-stick-one-kit/)
+```
+Note
+
+
+```
 * [Ubertooth](https://hackerwarehouse.com/product/ubertooth-one/)
+```
+Note
+
+
+```
 #### Misc
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
+```
+Note
+
+
+```
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
+```
+Note
+
+
+```
 * [Poison tap](https://samy.pl/poisontap/)
+```
+Note
+
+
+```
 * [keysweeper](https://samy.pl/keysweeper/)
+```
+Note
+
+
+```
 * [USB Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
+```
+Note
+
+
+```
 * [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)
+```
+Note
+
+
+```
 * [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
+```
+Note
+
+
+```
 * [Social Engineers' Playbook Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Training ( Free )
 * [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
+```
+Note
+
+
+```
 * [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
+```
+Note
+
+
+```
 * [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html)
+```
+Note
+
+
+```
 
 ## [↑](#table-of-contents) Certification
 * [CREST Certified Simulated Attack Specialist](http://www.crest-approved.org/examination/certified-simulated-attack-specialist/)
